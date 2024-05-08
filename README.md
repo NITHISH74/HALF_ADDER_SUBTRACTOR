@@ -1,5 +1,5 @@
-# HALF_ADDER_SUBTRACTOR
-
+# HALF ADDER SUBTRACTOR
+### Exp. No: 03
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 **AIM:**
